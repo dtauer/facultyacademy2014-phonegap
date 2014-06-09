@@ -5,8 +5,13 @@ Files and resources for my PhoneGap workshop at the 2014 AIM Faculty Academy
 
 ####Quick Links
 
-This is the Infotec web application we'll be using as a reference for our mobile application.
-- https://event.crowdcompass.com/infotec/multi-level-list/ScheduleByTrack/1
+This is the Infotec web application we'll be using as a reference for our mobile application:
+https://event.crowdcompass.com/infotec/multi-level-list/ScheduleByTrack/1
+
+- http://slides.com/dtauer/fa2014-phonegap
+- 
+
+
 
 ####PhoneGap & PhoneGap Build
 - http://phonegap.com
