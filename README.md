@@ -19,6 +19,9 @@ https://event.crowdcompass.com/infotec/multi-level-list/ScheduleByTrack/1
 - GitHub Application (windows) https://windows.github.com/
 - GitHub Application (mac) https://mac.github.com/
 
+####Tutorials
+- HTML/CSS/JS: http://www.w3schools.com/
+
 
 ####PhoneGap & PhoneGap Build
 - http://phonegap.com
