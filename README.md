@@ -11,6 +11,14 @@ https://event.crowdcompass.com/infotec/multi-level-list/ScheduleByTrack/1
 - Slides: http://slides.com/dtauer/fa2014-phonegap
 - CodePen: http://codepen.io/collection/CDdtc/
 
+####Tools
+- Notepad++ (windows) http://notepad-plus-plus.org/
+- TextWrangler (mac) http://www.barebones.com/products/textwrangler/
+- XAMPP (windows) https://www.apachefriends.org/index.html
+- MAMP (mac) http://www.mamp.info/en/
+- GitHub Application (windows) https://windows.github.com/
+- GitHub Application (mac) https://mac.github.com/
+
 
 ####PhoneGap & PhoneGap Build
 - http://phonegap.com
