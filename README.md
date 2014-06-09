@@ -11,7 +11,7 @@ This is the Infotec web application we'll be using as a reference for our mobile
 ####PhoneGap & PhoneGap Build
 - http://phonegap.com
 - http://build.phonegap.com
-- http://docs.build.phonegap.com/en_US/
+- **Documentation:** http://docs.build.phonegap.com/en_US/
 - https://github.com/phonegap/phonegap-start
 
 ####Testing & Debugging
