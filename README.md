@@ -24,10 +24,10 @@ https://event.crowdcompass.com/infotec/multi-level-list/ScheduleByTrack/1
 
 
 ####PhoneGap & PhoneGap Build
-- http://phonegap.com
-- http://build.phonegap.com
-- **Documentation:** http://docs.build.phonegap.com/en_US/
-- https://github.com/phonegap/phonegap-start
+- PhoneGap Website: http://phonegap.com
+- PhoneGap Build Website: http://build.phonegap.com
+- PhoneGap Build Documentation: http://docs.build.phonegap.com/en_US/
+- PhoneGap Starter Files: https://github.com/phonegap/phonegap-start
 
 ####Testing & Debugging
 - PhoneGap Debugger: http://debug.phonegap.com/
@@ -37,7 +37,7 @@ https://event.crowdcompass.com/infotec/multi-level-list/ScheduleByTrack/1
 
 
 ####CSS Frameworks
-- http://usablica.github.io/front-end-frameworks/compare.html
+- Compare CSS Frameworks: http://usablica.github.io/front-end-frameworks/compare.html
 - Twitter Bootstrap 3: http://getbootstrap.com
 - Ratchet: http://goratchet.com/
 - jQuery Mobile: http://jquerymobile.com
